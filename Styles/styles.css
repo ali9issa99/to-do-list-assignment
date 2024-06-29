@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+.page{
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    flex-direction: row;
+    padding: 20px;
+    
+}
+
+.containers{
+    
+}
+
+.container-1{
+   
+}
+
+.button{
+    
+    
+    
+}
+
+.container-2{
+    
+}
+
+.container-3{
+    
+}
